@@ -6,7 +6,7 @@ One of excercise project of Zero To Mastery course.
 
 NOTE! For that moment it doesn't work on Safari :( 
 
-Click [this](https://martinafm.github.io/picture-in-picture/) link to see it live in your Chrome browser.
+Click [this](https://martinafm.github.io/Picture-in-picture/) link to see it live in your Chrome browser.
 
 
 ## Table of Contents
